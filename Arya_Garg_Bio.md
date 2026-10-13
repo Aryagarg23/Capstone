@@ -10,7 +10,7 @@ I'm a Computer Science and Artificial Intelligence student at the University of 
 
 ## Co-op Work Experience
 
-### Tech Intern — CoreCard
+### Automation Intern — CoreCard
 **Atlanta, GA | June 2025 – November 2025**
 
 - I built an enterprise chatbot with Office 365 integration using the Microsoft Authentication Library (MSAL) and a LangChain/Qdrant vector database.
@@ -19,7 +19,7 @@ I'm a Computer Science and Artificial Intelligence student at the University of 
 - **Non-technical skills:** translating enterprise integration requirements, communicating design across systems teams.
 
 ### Data Science — Possip
-**Cincinnati, OH | May 2023 – November 2023**
+**Cincinnati, OH | August 2023 – December 2023 · Nashville, TN | May 2024 – August 2024**
 
 - I deployed a Flask and React app on Google Cloud Platform to automate customer imports, cutting that workflow's time by 400%.
 - I processed 3M+ records to onboard 1M+ new users, and wrote new error-correction methods to keep the database consistent.
@@ -37,7 +37,7 @@ I'm a Computer Science and Artificial Intelligence student at the University of 
 
 ### Other Relevant Experience
 
-**Vice President — CubeCats, University of Cincinnati** (Cincinnati, OH | May 2023 – Present)
+**Vice President — CubeCats, University of Cincinnati** (Cincinnati, OH | May 2023 – November 2025)
 - I started Project Calico, teaching 50+ freshman students to become self-starters and leaders on a high-impact project analyzing light and air pollution with a ground station for real-time comms.
 - I directed the LEOPARD-Sat project, a NASA-affiliated CubeSat effort, working on radioactive-shielding assessment techniques for long-duration space missions and simulation software for Passive Attitude Determination and Control Systems (ADCS), processing 50M+ rows of data with Pandas, NumPy, and Scikit-learn.
 - I rebuilt the club website and media team, which grew outside interest and collaboration inquiries by 1114%.
@@ -45,7 +45,7 @@ I'm a Computer Science and Artificial Intelligence student at the University of 
 - **Non-technical skills:** technical leadership, mentorship, directing a team, partnering across organizations (Nanoracks).
 
 **Hackathon Projects**
-- **WhiteBox** — 1st place, Midwest Con Future of Data Hackathon ($5,000). I built an explainable-AI platform on a Neo4j knowledge graph (70,000 nodes, 140,000 links), fine-tuning LLMs (LLaMA, MiniLM, Phi3, OpenAI) to cut hallucination by 99% in structured data retrieval.
+- **WhiteBox** — 1st place, Midwest Con Future of Data Hackathon ($5,000). I built an explainable-AI platform on a Neo4j knowledge graph (40,000 nodes, 140,000 links), fine-tuning LLMs (LLaMA, MiniLM, Phi3, OpenAI) to cut hallucination by 99% in structured data retrieval.
 - **Memento** — I deployed a memory- and retrieval-based AI assistant on Android, hosted on GCP, to help Alzheimer's patients. It won Best Social, Best Health, Best Postgres, and 3rd Overall at RevUC.
 - I've won 6 hackathons across data science, AI, and software development, leading teams through tight deadlines with rapid prototyping and agile prioritization.
 
